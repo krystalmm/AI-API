@@ -1,4 +1,4 @@
 # README
-sample_appにRails 10章を加えたものにAI用の編集を加えたもの
 
-これをテンプレートにする
+## DMM WEBCAMP AI学習(Google Cloud Vision API)
+DMM WEBCAMP のAI学習で使用したサンプルアプリです。（画像認識）
